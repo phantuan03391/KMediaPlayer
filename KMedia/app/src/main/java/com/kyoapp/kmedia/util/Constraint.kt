@@ -14,5 +14,6 @@ class Constraint {
         const val ACTION_NEXT = "ACTION_NEXT"
         const val ACTION_STOP = "ACTION_STOP"
         const val NOTIFICATION_ID = 101
+        const val BROADCAST_MEDIA_STATUS = "mediaStatus"
     }
 }
